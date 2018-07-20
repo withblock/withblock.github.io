@@ -1968,7 +1968,7 @@ background: linear-gradient(to right, rgba(57,100,208,1) 0%, rgba(45,193,201,1) 
   color: #fff;
   margin: 0 0 40px;
   text-shadow: 0 5px 30px rgba(44, 46, 83, 0.3);
-  animation-delay: 1.4s
+  animation-delay: 1.8s
 }
 @media only screen and (max-width: 768px) {
   .slider-area .slider-content h2 {
