@@ -1,0 +1,14 @@
+css:
+  - css/bootstrap.min.css
+  - css/animate.css
+  - css/jquery-ui.min.css
+  - css/meanmenu.min.css
+  - css/owl.carousel.min.css
+  - css/flaticon.css
+  - css/font-awesome.min.css
+  - css/video-js.css
+  - style.css
+  - css/responsive.css
+
+
+js:

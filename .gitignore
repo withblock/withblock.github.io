@@ -1,10 +1,17 @@
-_site/*
-_theme_packages/*
+## MacOS
+*.DS_Store
+.bundle
+.sass-cache
+node_modules
+package.json
 
-Thumbs.db
-.DS_Store
+## Jekyll stuff
+/_site/
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll
+Gemfile
+Gemfile.lock
 
-!.gitkeep
-
-.rbenv-version
-.rvmrc
+_initialPost
